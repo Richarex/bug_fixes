@@ -44,6 +44,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 11.40625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 5,
               "dynamicBindingPathList": [
                 {
@@ -53,7 +54,7 @@
                   "key": "borderRadius"
                 }
               ],
-              "text": "Submit",
+              "text": "rename",
               "isDisabled": false,
               "key": "v15lswety9",
               "isDeprecated": false,
