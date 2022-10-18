@@ -31,7 +31,7 @@
               "boxShadow": "none",
               "widgetName": "Button1",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "displayName": "Button",
+              "displayName": "Submit",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
               "searchTags": [
                 "click",
